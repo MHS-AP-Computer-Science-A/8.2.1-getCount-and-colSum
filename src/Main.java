@@ -3,7 +3,7 @@ public class Main {
 	public static void main(String[] args) {
 		// You can change the values to test your methods
 		int[][] testArray = { { 6, 5, 6 }, { 0, 3, 2 }, { 6, 7, 4 }, { 5, 1, 3 } };
-		int[][] testArray2 = { { 1, 2, 3, 4 }, { 5, 6, 7, 8 }, { 9, 10, 11, 12 }, { 13, 14, 15, 16 } };
+		int[][] testArray2 = { { 1, 2, 3, 4 }, { 5, 6, 7, 8 }, { 9, 10, 11, 12 }, { 13, 14, 15, 16 }, { 17, 18, 19, 20 }};
 
 		// 8.2.1 Testing getCount
 		System.out.println("6 occurs in testArray " + getCount(testArray, 6) + " times.");
