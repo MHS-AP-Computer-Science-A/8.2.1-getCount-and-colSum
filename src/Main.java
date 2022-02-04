@@ -11,7 +11,7 @@ public class Main {
 
 		// 8.2.2 Testing colSum
 		System.out.println("The sum of column 2 is: " + colSum(testArray, 0));
-		System.out.println("The sum of column 2 is: " + colSum(testArray2, 3));
+		System.out.println("The sum of column 3 is: " + colSum(testArray2, 3));
 
 	}
 
