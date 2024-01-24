@@ -10,7 +10,7 @@ public class Main {
 		System.out.println("16 occurs in testArray2 " + getCount(testArray2, 16) + " times.");
 
 		// 8.2.2 Testing colSum
-		System.out.println("The sum of column 2 is: " + colSum(testArray, 0));
+		System.out.println("The sum of column 0 is: " + colSum(testArray, 0));
 		System.out.println("The sum of column 3 is: " + colSum(testArray2, 3));
 
 	}
